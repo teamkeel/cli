@@ -1,7 +1,5 @@
 # @teamkeel/cli
 
-# Keel CLI
-
 ## Usage
 
 | Command    | Description                                                         |
